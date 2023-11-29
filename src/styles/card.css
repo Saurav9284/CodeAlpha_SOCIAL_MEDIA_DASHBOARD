@@ -56,8 +56,8 @@
   letter-spacing: 4px;
   font-size: 0.7em;
 }
-
 .card-today {
+    /* border: 1px solid blue; */
   margin-top: 20px;
   color: var(--lime-green);
   font-size: 0.7em;
