@@ -7,11 +7,9 @@
   border-radius: 8px;
   padding: 1em;
 }
-
 .card-small p {
   margin: 0;
 }
-
 .card-small-views {
   /* border: 1px solid green; */
   color: var(--cardTitle);

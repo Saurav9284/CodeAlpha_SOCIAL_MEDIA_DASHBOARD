@@ -32,7 +32,6 @@
 .card.youtube:before {
   background: var(--youTube);
 }
-
 .card-title {
   display: flex;
   align-items: center;
