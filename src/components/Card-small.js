@@ -1,6 +1,5 @@
 import React from 'react'
 import '../styles/Card-small.css'
-
 function CardSmall({growth, pageViews, icon}) {
     return (
         <div className="card-small">
