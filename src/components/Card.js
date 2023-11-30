@@ -2,7 +2,6 @@ import React from 'react'
 import '../styles/card.css'
 
 
-
 function Card({userName,followers,todayFollowers, icon, name}) {
     const cardClass = `card ${name}`
     return (
