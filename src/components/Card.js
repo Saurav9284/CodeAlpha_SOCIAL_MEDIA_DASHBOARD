@@ -21,5 +21,4 @@ function Card({userName,followers,todayFollowers, icon, name}) {
         </article>
     )
 }
-
 export default Card;
