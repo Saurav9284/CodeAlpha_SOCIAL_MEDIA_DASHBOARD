@@ -13,7 +13,6 @@ function CardSmall({growth, pageViews, icon}) {
                 <img src="images/up.png"/>
                 {growth}%
             </span>
-         
         </p>
     </div>
     )
