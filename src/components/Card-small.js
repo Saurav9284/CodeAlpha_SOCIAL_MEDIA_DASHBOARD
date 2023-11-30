@@ -17,5 +17,4 @@ function CardSmall({growth, pageViews, icon}) {
     </div>
     )
 }
-
 export default CardSmall
